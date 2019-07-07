@@ -806,6 +806,7 @@
     <Content Include="assets\libs\toastr\build\toastr.min.js" />
     <Content Include="assets\libs\toastr\toastr-icon.png" />
     <Content Include="assets\libs\toastr\toastr.js" />
+    <Content Include="default.aspx" />
     <Content Include="dist\css\icons\font-awesome\css\fa-brands.css" />
     <Content Include="dist\css\icons\font-awesome\css\fa-brands.min.css" />
     <Content Include="dist\css\icons\font-awesome\css\fa-regular.css" />
